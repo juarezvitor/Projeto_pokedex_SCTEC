@@ -1,4 +1,4 @@
-# Pokédex TypeScript Lite
+# Pokédex 
 
 ## Sobre o projeto
 
